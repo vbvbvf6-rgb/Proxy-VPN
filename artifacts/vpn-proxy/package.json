@@ -57,6 +57,9 @@
   "dependencies": {
     "expo-clipboard": "~57.0.2",
     "expo-secure-store": "~57.0.4",
-    "expo-xray-vpn": "0.7.30"
+    "expo-xray-vpn": "0.7.30",
+    "expo": "~57.0.30",
+    "react": "19.2.3",
+    "react-native": "0.86.3"
   }
 }

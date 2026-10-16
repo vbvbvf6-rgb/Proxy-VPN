@@ -10,7 +10,9 @@
     "ios": {
       "supportsTablet": false
     },
-    "android": {},
+    "android": {
+      "package": "com.nexa.vpnproxy"
+    },
     "web": {
       "favicon": "./assets/images/icon.png"
     },

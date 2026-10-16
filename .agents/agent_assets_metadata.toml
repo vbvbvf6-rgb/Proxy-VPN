@@ -1,0 +1,16 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "hDUvXRcbVFKvLxYrq8okc"
+uri = "file://artifacts/vpn-proxy/assets/images/icon.png"
+type = "image"
+title = "Иконка NEXA VPN"
+description = "Квадратная фирменная иконка приложения VPN Proxy для Android."
+logical_id = "4ef7d17c-b307-4df9-b9e8-0f2677ce0b6f"
+content_hash = "sha256:a3ef8b05c74d0c4b93ed7186eb33aae650ee2acf512581cc9f1bd6d8fc0ecfb3"
+size = 869116
+mtime_ms = 1792164011627
+storage_uri = "gcs://replit-rams-assets-pike/rams/assets/repl:c5d96008-028a-4296-bb9b-4300316f851e/4ef7d17c-b307-4df9-b9e8-0f2677ce0b6f/8fac7928-2e15-46f1-9c35-ec0ce535d87f"
+storage_version_token = "1792164334270016"
+content_type = "image/png"
